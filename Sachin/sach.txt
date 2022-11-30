@@ -12,6 +12,7 @@ public class StarPattern00 {
 				ch = ch-1; //9-1=8
 			}
 		System.out.println();
+            System.out.println(m);
 		colume--;//8-1=7
 		
 		}
