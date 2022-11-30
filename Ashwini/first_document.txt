@@ -5,3 +5,4 @@ psvm
 int a,b;
 sysout(a+b);
 sysout(a-b);
+sysout(a/b);
