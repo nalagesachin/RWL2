@@ -15,6 +15,9 @@ public class StarPattern00 {
 			}
 		System.out.println();
 		colume--;//8-1=7
+colume--;//8-1=7
+colume--;//8-1=7
+colume--;//8-1=7
 		
 		}
 	}
