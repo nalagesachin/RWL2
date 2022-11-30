@@ -1,0 +1,7 @@
+Hello,
+This is first program.
+class first
+psvm
+int a,b;
+sysout(a+b);
+sysout(a*b);
