@@ -4,6 +4,9 @@ class first
 psvm
 int a,b;
 sysout(a+b);
+<<<<<<< HEAD
+sysout(a-b);
+=======
 sysout(a*c);
 sysout(a-b);
 <<<<<<< HEAD
@@ -11,3 +14,4 @@ sysout(a-b);
 =======
 sysout(a/b);
 >>>>>>> f5a45dcceef8ab15763aaabef5d014a79b5ee15a
+>>>>>>> 0a914659bc8f4a5d415ec552bfd4ddca4ab6aea0
