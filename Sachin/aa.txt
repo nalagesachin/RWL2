@@ -1,7 +1,11 @@
 Class aa{
 
 int j= 9;
+
 int a= 1;
+
+
+int v=55;
 
 
 
