@@ -1,5 +1,7 @@
 public class StarPattern00 {
 	public static void main(String[] args) {
+
+
 		int line=5;
 		int colume =5;
 		for (int i= 0; i< line; i++) {
@@ -14,6 +16,9 @@ public class StarPattern00 {
 		System.out.println();
             System.out.println(m);
 		colume--;//8-1=7
+colume--;//8-1=7
+colume--;//8-1=7
+colume--;//8-1=7
 		
 		}
 	}
