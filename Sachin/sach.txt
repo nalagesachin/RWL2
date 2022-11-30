@@ -1,5 +1,7 @@
 public class StarPattern00 {
 	public static void main(String[] args) {
+
+
 		int line=5;
 		int colume =5;
 		for (int i= 0; i< line; i++) {
